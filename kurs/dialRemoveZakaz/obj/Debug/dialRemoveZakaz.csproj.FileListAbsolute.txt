@@ -1,0 +1,27 @@
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialRemoveZakaz\bin\Debug\dialRemoveZakaz.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialRemoveZakaz\bin\Debug\dialRemoveZakaz.exe
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialRemoveZakaz\bin\Debug\dialRemoveZakaz.pdb
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialRemoveZakaz\obj\Debug\DialRemoveZakaz.g.cs
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialRemoveZakaz\obj\Debug\App.g.cs
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialRemoveZakaz\obj\Debug\dialRemoveZakaz_MarkupCompile.cache
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialRemoveZakaz\obj\Debug\dialRemoveZakaz_MarkupCompile.lref
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialRemoveZakaz\obj\Debug\DialRemoveZakaz.baml
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialRemoveZakaz\obj\Debug\dialRemoveZakaz.g.resources
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialRemoveZakaz\obj\Debug\dialRemoveZakaz.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialRemoveZakaz\obj\Debug\dialRemoveZakaz.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialRemoveZakaz\obj\Debug\dialRemoveZakaz.exe
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialRemoveZakaz\obj\Debug\dialRemoveZakaz.pdb
+D:\Программирование\vs2017projects\Projects\kurs\dialRemoveZakaz\bin\Debug\dialRemoveZakaz.exe.config
+D:\Программирование\vs2017projects\Projects\kurs\dialRemoveZakaz\bin\Debug\dialRemoveZakaz.exe
+D:\Программирование\vs2017projects\Projects\kurs\dialRemoveZakaz\bin\Debug\dialRemoveZakaz.pdb
+D:\Программирование\vs2017projects\Projects\kurs\dialRemoveZakaz\obj\Debug\DialRemoveZakaz.g.cs
+D:\Программирование\vs2017projects\Projects\kurs\dialRemoveZakaz\obj\Debug\App.g.cs
+D:\Программирование\vs2017projects\Projects\kurs\dialRemoveZakaz\obj\Debug\dialRemoveZakaz_MarkupCompile.cache
+D:\Программирование\vs2017projects\Projects\kurs\dialRemoveZakaz\obj\Debug\dialRemoveZakaz_MarkupCompile.lref
+D:\Программирование\vs2017projects\Projects\kurs\dialRemoveZakaz\obj\Debug\DialRemoveZakaz.baml
+D:\Программирование\vs2017projects\Projects\kurs\dialRemoveZakaz\obj\Debug\dialRemoveZakaz.g.resources
+D:\Программирование\vs2017projects\Projects\kurs\dialRemoveZakaz\obj\Debug\dialRemoveZakaz.Properties.Resources.resources
+D:\Программирование\vs2017projects\Projects\kurs\dialRemoveZakaz\obj\Debug\dialRemoveZakaz.csproj.GenerateResource.cache
+D:\Программирование\vs2017projects\Projects\kurs\dialRemoveZakaz\obj\Debug\dialRemoveZakaz.csproj.CoreCompileInputs.cache
+D:\Программирование\vs2017projects\Projects\kurs\dialRemoveZakaz\obj\Debug\dialRemoveZakaz.exe
+D:\Программирование\vs2017projects\Projects\kurs\dialRemoveZakaz\obj\Debug\dialRemoveZakaz.pdb

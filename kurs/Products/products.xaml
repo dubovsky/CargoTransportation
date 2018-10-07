@@ -1,0 +1,40 @@
+﻿<Window x:Class="Products.Products1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Products"
+        mc:Ignorable="d"
+        Title="Данные о товарах на складе" Height="350" Width="600">
+    <Grid Background="LightSteelBlue">
+        <Button Content="Ок" x:Name="b1" HorizontalAlignment="Left" Margin="343,279,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Отмена" x:Name="b2" HorizontalAlignment="Left" Margin="428,279,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label Content="Товары на складе, наименование" HorizontalAlignment="Left" Margin="34,101,0,0" VerticalAlignment="Top"/>
+        <Label Content="Наименование" HorizontalAlignment="Left" Margin="285,113,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.391,0.615"/>
+        <Label Content="Цена" HorizontalAlignment="Left" Margin="343,154,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="383,116,0,0" TextWrapping="Wrap" Text="" x:Name="tb1" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="383,154,0,0" TextWrapping="Wrap" Text="" x:Name="tb2" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Добавить товар" HorizontalAlignment="Left" Margin="368,253,0,0" VerticalAlignment="Top"/>
+        <Label Content="Остаток" HorizontalAlignment="Left" Margin="329,193,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="383,193,0,0" TextWrapping="Wrap" Text="" x:Name="tb3" VerticalAlignment="Top" Width="120"/>
+        <Label Content="И з м е н е н и е    т о в а р а" FontWeight="Bold" HorizontalAlignment="Left" Margin="56,-8,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tb4" HorizontalAlignment="Left" Height="23" Margin="91,18,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Остаток" HorizontalAlignment="Left" Margin="37,15,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.391,0.615">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.831"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Цена" HorizontalAlignment="Left" Margin="53,41,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.391,0.615"/>
+        <TextBox x:Name="tb5" HorizontalAlignment="Left" Height="23" Margin="91,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Separator HorizontalAlignment="Left" Height="3" Margin="0,98,0,0" VerticalAlignment="Top" Width="592" Background="Red"/>
+        <Label Content="Д о б а в л е н и е    т о в а р а" FontWeight="Bold" HorizontalAlignment="Left" Margin="354,95,0,0" VerticalAlignment="Top"/>
+        <Button Content="Ок" x:Name="bChange" HorizontalAlignment="Left" Margin="136,64,0,0" VerticalAlignment="Top" Width="75"/>
+        <DataGrid x:Name="lb1" HorizontalAlignment="Left" Height="100" Margin="34,127,0,0" VerticalAlignment="Top" Width="232"/>
+
+    </Grid>
+</Window>

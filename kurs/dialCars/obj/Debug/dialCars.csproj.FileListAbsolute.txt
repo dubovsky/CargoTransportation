@@ -1,0 +1,28 @@
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialCars\obj\Debug\dialCars.g.cs
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialCars\obj\Debug\App.g.cs
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialCars\obj\Debug\dialCars_MarkupCompile.cache
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialCars\obj\Debug\dialCars_MarkupCompile.lref
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialCars\bin\Debug\dialCars.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialCars\bin\Debug\dialCars.exe
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialCars\bin\Debug\dialCars.pdb
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialCars\obj\Debug\dialCars.baml
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialCars\obj\Debug\dialCars.g.resources
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialCars\obj\Debug\dialCars.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialCars\obj\Debug\dialCars.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialCars\obj\Debug\dialCars.exe
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialCars\obj\Debug\dialCars.pdb
+D:\Программирование\vs2017projects\Projects\kurs\dialCars\bin\Debug\dialCars.exe.config
+D:\Программирование\vs2017projects\Projects\kurs\dialCars\bin\Debug\dialCars.exe
+D:\Программирование\vs2017projects\Projects\kurs\dialCars\bin\Debug\dialCars.pdb
+D:\Программирование\vs2017projects\Projects\kurs\dialCars\obj\Debug\dialCars.csprojResolveAssemblyReference.cache
+D:\Программирование\vs2017projects\Projects\kurs\dialCars\obj\Debug\dialCars.g.cs
+D:\Программирование\vs2017projects\Projects\kurs\dialCars\obj\Debug\App.g.cs
+D:\Программирование\vs2017projects\Projects\kurs\dialCars\obj\Debug\dialCars_MarkupCompile.cache
+D:\Программирование\vs2017projects\Projects\kurs\dialCars\obj\Debug\dialCars_MarkupCompile.lref
+D:\Программирование\vs2017projects\Projects\kurs\dialCars\obj\Debug\dialCars.baml
+D:\Программирование\vs2017projects\Projects\kurs\dialCars\obj\Debug\dialCars.g.resources
+D:\Программирование\vs2017projects\Projects\kurs\dialCars\obj\Debug\dialCars.Properties.Resources.resources
+D:\Программирование\vs2017projects\Projects\kurs\dialCars\obj\Debug\dialCars.csproj.GenerateResource.cache
+D:\Программирование\vs2017projects\Projects\kurs\dialCars\obj\Debug\dialCars.csproj.CoreCompileInputs.cache
+D:\Программирование\vs2017projects\Projects\kurs\dialCars\obj\Debug\dialCars.exe
+D:\Программирование\vs2017projects\Projects\kurs\dialCars\obj\Debug\dialCars.pdb

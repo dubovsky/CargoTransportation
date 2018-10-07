@@ -1,0 +1,27 @@
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddClient\bin\Debug\dialAddClient.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddClient\bin\Debug\dialAddClient.exe
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddClient\bin\Debug\dialAddClient.pdb
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddClient\obj\Debug\DialAddClient.g.cs
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddClient\obj\Debug\App.g.cs
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddClient\obj\Debug\dialAddClient_MarkupCompile.cache
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddClient\obj\Debug\dialAddClient_MarkupCompile.lref
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddClient\obj\Debug\DialAddClient.baml
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddClient\obj\Debug\dialAddClient.g.resources
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddClient\obj\Debug\dialAddClient.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddClient\obj\Debug\dialAddClient.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddClient\obj\Debug\dialAddClient.exe
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddClient\obj\Debug\dialAddClient.pdb
+D:\Программирование\vs2017projects\Projects\kurs\dialAddClient\bin\Debug\dialAddClient.exe.config
+D:\Программирование\vs2017projects\Projects\kurs\dialAddClient\bin\Debug\dialAddClient.exe
+D:\Программирование\vs2017projects\Projects\kurs\dialAddClient\bin\Debug\dialAddClient.pdb
+D:\Программирование\vs2017projects\Projects\kurs\dialAddClient\obj\Debug\DialAddClient.g.cs
+D:\Программирование\vs2017projects\Projects\kurs\dialAddClient\obj\Debug\App.g.cs
+D:\Программирование\vs2017projects\Projects\kurs\dialAddClient\obj\Debug\dialAddClient_MarkupCompile.cache
+D:\Программирование\vs2017projects\Projects\kurs\dialAddClient\obj\Debug\dialAddClient_MarkupCompile.lref
+D:\Программирование\vs2017projects\Projects\kurs\dialAddClient\obj\Debug\DialAddClient.baml
+D:\Программирование\vs2017projects\Projects\kurs\dialAddClient\obj\Debug\dialAddClient.g.resources
+D:\Программирование\vs2017projects\Projects\kurs\dialAddClient\obj\Debug\dialAddClient.Properties.Resources.resources
+D:\Программирование\vs2017projects\Projects\kurs\dialAddClient\obj\Debug\dialAddClient.csproj.GenerateResource.cache
+D:\Программирование\vs2017projects\Projects\kurs\dialAddClient\obj\Debug\dialAddClient.csproj.CoreCompileInputs.cache
+D:\Программирование\vs2017projects\Projects\kurs\dialAddClient\obj\Debug\dialAddClient.exe
+D:\Программирование\vs2017projects\Projects\kurs\dialAddClient\obj\Debug\dialAddClient.pdb

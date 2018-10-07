@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kurs", "kurs\kurs.csproj", "{DBA42FD5-3B51-47E4-8917-2E3B26AB86A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drivers1", "Drivers1\Drivers1.csproj", "{8EC8C6F5-2D70-4FC9-9C1B-B56777F2BFB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dialCars", "dialCars\dialCars.csproj", "{16490FC9-2864-44DF-B567-5705BF69CBFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dialAddOrder", "dialAddOrder\dialAddOrder.csproj", "{7B12843E-7779-41BC-9DE0-AB72D1B8D5A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dialAddClient", "dialAddClient\dialAddClient.csproj", "{F27459C2-5583-43B4-BB59-8FB1D40F9359}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ED13A5C7-F051-42D3-82B3-F7DA4A969A54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dialRemoveZakaz", "dialRemoveZakaz\dialRemoveZakaz.csproj", "{06BAF5DF-0EB4-49F2-8620-54467561E3E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfControlLibraryRaces", "WpfControlLibraryRaces\WpfControlLibraryRaces.csproj", "{0637BE9B-FACA-446C-AC18-D88C2E354087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA42FD5-3B51-47E4-8917-2E3B26AB86A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA42FD5-3B51-47E4-8917-2E3B26AB86A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA42FD5-3B51-47E4-8917-2E3B26AB86A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA42FD5-3B51-47E4-8917-2E3B26AB86A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EC8C6F5-2D70-4FC9-9C1B-B56777F2BFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC8C6F5-2D70-4FC9-9C1B-B56777F2BFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC8C6F5-2D70-4FC9-9C1B-B56777F2BFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC8C6F5-2D70-4FC9-9C1B-B56777F2BFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16490FC9-2864-44DF-B567-5705BF69CBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16490FC9-2864-44DF-B567-5705BF69CBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16490FC9-2864-44DF-B567-5705BF69CBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16490FC9-2864-44DF-B567-5705BF69CBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B12843E-7779-41BC-9DE0-AB72D1B8D5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B12843E-7779-41BC-9DE0-AB72D1B8D5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B12843E-7779-41BC-9DE0-AB72D1B8D5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B12843E-7779-41BC-9DE0-AB72D1B8D5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F27459C2-5583-43B4-BB59-8FB1D40F9359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27459C2-5583-43B4-BB59-8FB1D40F9359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27459C2-5583-43B4-BB59-8FB1D40F9359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27459C2-5583-43B4-BB59-8FB1D40F9359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06BAF5DF-0EB4-49F2-8620-54467561E3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06BAF5DF-0EB4-49F2-8620-54467561E3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06BAF5DF-0EB4-49F2-8620-54467561E3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06BAF5DF-0EB4-49F2-8620-54467561E3E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0637BE9B-FACA-446C-AC18-D88C2E354087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0637BE9B-FACA-446C-AC18-D88C2E354087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0637BE9B-FACA-446C-AC18-D88C2E354087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0637BE9B-FACA-446C-AC18-D88C2E354087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

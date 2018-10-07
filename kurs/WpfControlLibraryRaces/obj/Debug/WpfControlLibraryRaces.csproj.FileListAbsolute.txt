@@ -1,0 +1,23 @@
+C:\Users\User\documents\visual studio 2017\Projects\kurs\WpfControlLibraryRaces\bin\Debug\WpfControlLibraryRaces.dll
+C:\Users\User\documents\visual studio 2017\Projects\kurs\WpfControlLibraryRaces\bin\Debug\WpfControlLibraryRaces.pdb
+C:\Users\User\documents\visual studio 2017\Projects\kurs\WpfControlLibraryRaces\obj\Debug\UserControl1.g.cs
+C:\Users\User\documents\visual studio 2017\Projects\kurs\WpfControlLibraryRaces\obj\Debug\WpfControlLibraryRaces_MarkupCompile.cache
+C:\Users\User\documents\visual studio 2017\Projects\kurs\WpfControlLibraryRaces\obj\Debug\WpfControlLibraryRaces_MarkupCompile.lref
+C:\Users\User\documents\visual studio 2017\Projects\kurs\WpfControlLibraryRaces\obj\Debug\UserControl1.baml
+C:\Users\User\documents\visual studio 2017\Projects\kurs\WpfControlLibraryRaces\obj\Debug\WpfControlLibraryRaces.g.resources
+C:\Users\User\documents\visual studio 2017\Projects\kurs\WpfControlLibraryRaces\obj\Debug\WpfControlLibraryRaces.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2017\Projects\kurs\WpfControlLibraryRaces\obj\Debug\WpfControlLibraryRaces.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2017\Projects\kurs\WpfControlLibraryRaces\obj\Debug\WpfControlLibraryRaces.dll
+C:\Users\User\documents\visual studio 2017\Projects\kurs\WpfControlLibraryRaces\obj\Debug\WpfControlLibraryRaces.pdb
+D:\Программирование\vs2017projects\Projects\kurs\WpfControlLibraryRaces\bin\Debug\WpfControlLibraryRaces.dll
+D:\Программирование\vs2017projects\Projects\kurs\WpfControlLibraryRaces\bin\Debug\WpfControlLibraryRaces.pdb
+D:\Программирование\vs2017projects\Projects\kurs\WpfControlLibraryRaces\obj\Debug\UserControl1.g.cs
+D:\Программирование\vs2017projects\Projects\kurs\WpfControlLibraryRaces\obj\Debug\WpfControlLibraryRaces_MarkupCompile.cache
+D:\Программирование\vs2017projects\Projects\kurs\WpfControlLibraryRaces\obj\Debug\WpfControlLibraryRaces_MarkupCompile.lref
+D:\Программирование\vs2017projects\Projects\kurs\WpfControlLibraryRaces\obj\Debug\UserControl1.baml
+D:\Программирование\vs2017projects\Projects\kurs\WpfControlLibraryRaces\obj\Debug\WpfControlLibraryRaces.g.resources
+D:\Программирование\vs2017projects\Projects\kurs\WpfControlLibraryRaces\obj\Debug\WpfControlLibraryRaces.Properties.Resources.resources
+D:\Программирование\vs2017projects\Projects\kurs\WpfControlLibraryRaces\obj\Debug\WpfControlLibraryRaces.csproj.GenerateResource.cache
+D:\Программирование\vs2017projects\Projects\kurs\WpfControlLibraryRaces\obj\Debug\WpfControlLibraryRaces.csproj.CoreCompileInputs.cache
+D:\Программирование\vs2017projects\Projects\kurs\WpfControlLibraryRaces\obj\Debug\WpfControlLibraryRaces.dll
+D:\Программирование\vs2017projects\Projects\kurs\WpfControlLibraryRaces\obj\Debug\WpfControlLibraryRaces.pdb

@@ -1,0 +1,27 @@
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Drivers1\bin\Debug\Drivers1.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Drivers1\bin\Debug\Drivers1.exe
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Drivers1\bin\Debug\Drivers1.pdb
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Drivers1\obj\Debug\dri.g.cs
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Drivers1\obj\Debug\App.g.cs
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Drivers1\obj\Debug\Drivers1_MarkupCompile.cache
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Drivers1\obj\Debug\Drivers1_MarkupCompile.lref
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Drivers1\obj\Debug\dri.baml
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Drivers1\obj\Debug\Drivers1.g.resources
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Drivers1\obj\Debug\Drivers1.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Drivers1\obj\Debug\Drivers1.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Drivers1\obj\Debug\Drivers1.exe
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Drivers1\obj\Debug\Drivers1.pdb
+D:\Программирование\vs2017projects\Projects\kurs\Drivers1\bin\Debug\Drivers1.exe.config
+D:\Программирование\vs2017projects\Projects\kurs\Drivers1\bin\Debug\Drivers1.exe
+D:\Программирование\vs2017projects\Projects\kurs\Drivers1\bin\Debug\Drivers1.pdb
+D:\Программирование\vs2017projects\Projects\kurs\Drivers1\obj\Debug\dri.g.cs
+D:\Программирование\vs2017projects\Projects\kurs\Drivers1\obj\Debug\App.g.cs
+D:\Программирование\vs2017projects\Projects\kurs\Drivers1\obj\Debug\Drivers1_MarkupCompile.cache
+D:\Программирование\vs2017projects\Projects\kurs\Drivers1\obj\Debug\Drivers1_MarkupCompile.lref
+D:\Программирование\vs2017projects\Projects\kurs\Drivers1\obj\Debug\dri.baml
+D:\Программирование\vs2017projects\Projects\kurs\Drivers1\obj\Debug\Drivers1.g.resources
+D:\Программирование\vs2017projects\Projects\kurs\Drivers1\obj\Debug\Drivers1.Properties.Resources.resources
+D:\Программирование\vs2017projects\Projects\kurs\Drivers1\obj\Debug\Drivers1.csproj.GenerateResource.cache
+D:\Программирование\vs2017projects\Projects\kurs\Drivers1\obj\Debug\Drivers1.csproj.CoreCompileInputs.cache
+D:\Программирование\vs2017projects\Projects\kurs\Drivers1\obj\Debug\Drivers1.exe
+D:\Программирование\vs2017projects\Projects\kurs\Drivers1\obj\Debug\Drivers1.pdb

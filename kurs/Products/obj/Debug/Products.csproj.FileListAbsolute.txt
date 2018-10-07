@@ -1,0 +1,14 @@
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Products\bin\Debug\Products.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Products\bin\Debug\Products.exe
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Products\bin\Debug\Products.pdb
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Products\obj\Debug\Products.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Products\obj\Debug\products.g.cs
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Products\obj\Debug\App.g.cs
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Products\obj\Debug\Products_MarkupCompile.cache
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Products\obj\Debug\Products_MarkupCompile.lref
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Products\obj\Debug\products.baml
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Products\obj\Debug\Products.g.resources
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Products\obj\Debug\Products.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Products\obj\Debug\Products.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Products\obj\Debug\Products.exe
+C:\Users\User\documents\visual studio 2017\Projects\kurs\Products\obj\Debug\Products.pdb

@@ -1,0 +1,96 @@
+c:\users\user\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\kurs.exe.config
+c:\users\user\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\kurs.exe
+c:\users\user\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\kurs.pdb
+c:\users\user\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\kurs.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\kurs_MarkupCompile.cache
+c:\users\user\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\kurs_MarkupCompile.lref
+c:\users\user\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\kurs.g.resources
+c:\users\user\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\kurs.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\kurs.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\kurs.exe
+c:\users\user\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\kurs.pdb
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\Drivers1.exe
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\Drivers1.pdb
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\Drivers1.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\dialCars.exe
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\dialCars.pdb
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\dialCars.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\dialAddOrder.exe
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\dialAddOrder.pdb
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\dialAddOrder.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\dialAddClient.exe
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\dialAddClient.pdb
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\dialAddClient.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\dialRemoveZakaz.exe
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\dialRemoveZakaz.pdb
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\dialRemoveZakaz.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\SkladTovarov.g.cs
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\SkladTovarov.baml
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\DialChangingOrder.g.cs
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\DialChangingOrder.baml
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\ChangeGoods.g.cs
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\ChangeGoods.baml
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\StatsForTrips.g.cs
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\StatsForTrips.baml
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\WpfControlLibraryRaces.dll
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\bin\Debug\WpfControlLibraryRaces.pdb
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\FileOut.g.cs
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\FileOut.baml
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\AddProductToOrder.g.cs
+C:\Users\User\documents\visual studio 2017\Projects\kurs\kurs\obj\Debug\AddProductToOrder.baml
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\kurs.exe.config
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\kurs.exe
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\kurs.pdb
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\dialAddClient.exe
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\dialAddOrder.exe
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\dialCars.exe
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\dialRemoveZakaz.exe
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\Drivers1.exe
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\EntityFramework.dll
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\EntityFramework.SqlServer.dll
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\WpfControlLibraryRaces.dll
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\dialAddClient.pdb
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\dialAddClient.exe.config
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\dialAddOrder.pdb
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\dialAddOrder.exe.config
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\dialCars.pdb
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\dialCars.exe.config
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\dialRemoveZakaz.pdb
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\dialRemoveZakaz.exe.config
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\Drivers1.pdb
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\Drivers1.exe.config
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\WpfControlLibraryRaces.pdb
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\EntityFramework.xml
+D:\Программирование\vs2017projects\Projects\kurs\kurs\bin\Debug\EntityFramework.SqlServer.xml
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\kurs.csprojResolveAssemblyReference.cache
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\AddProductToOrder.g.cs
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\ChangeGoods.g.cs
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\DialChangingOrder.g.cs
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\FileOut.g.cs
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\MainWindow.g.cs
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\SkladTovarov.g.cs
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\StatsForTrips.g.cs
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\App.g.cs
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\kurs_MarkupCompile.cache
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\kurs_MarkupCompile.lref
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\AddProductToOrder.baml
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\ChangeGoods.baml
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\DialChangingOrder.baml
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\FileOut.baml
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\MainWindow.baml
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\SkladTovarov.baml
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\StatsForTrips.baml
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\kurs.g.resources
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\kurs.Properties.Resources.resources
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\kurs.csproj.CopyComplete
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\kurs.exe
+D:\Программирование\vs2017projects\Projects\kurs\kurs\obj\Debug\kurs.pdb

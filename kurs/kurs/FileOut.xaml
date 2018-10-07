@@ -1,0 +1,20 @@
+﻿<Window x:Class="kurs.FileOut"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kurs"
+        mc:Ignorable="d"
+        Title="Импорт/экспорт данных" Height="180" Width="250" Background="LightSteelBlue">
+    <Grid>
+        <GroupBox Header="Данные таблиц" ToolTip="Выбор: загрузить данные из файла или выгрузить в файл" HorizontalAlignment="Left" Height="97" Margin="35,10,0,0" VerticalAlignment="Top" Width="157">
+            <StackPanel Margin="0,0,-2,-12">
+                <RadioButton x:Name="rbLoad"  IsChecked="False" Content="Загрузить" ToolTip="Загрузить последние сохранённые данные из файла" HorizontalAlignment="Left" Margin="49,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.016,0.533"/>
+                <RadioButton x:Name="rbSave" ToolTip="Выгрузить текущие данные в файл"  IsChecked="True" Content="Выгрузить" HorizontalAlignment="Left" Margin="49,10,0,0" VerticalAlignment="Top"/>
+                <Button x:Name="bOk" Content="Ок" Margin="70,0,20,0" IsDefault="True"/>
+            </StackPanel>
+        </GroupBox>
+        <Button Content="Закрыть" x:Name="bClose" HorizontalAlignment="Left" Margin="175,119,0,0" VerticalAlignment="Top" Width="57"/>
+
+    </Grid>
+</Window>

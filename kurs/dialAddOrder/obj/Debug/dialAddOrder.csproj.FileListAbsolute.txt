@@ -1,0 +1,27 @@
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddOrder\bin\Debug\dialAddOrder.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddOrder\bin\Debug\dialAddOrder.exe
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddOrder\bin\Debug\dialAddOrder.pdb
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddOrder\obj\Debug\DialAddOrder.g.cs
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddOrder\obj\Debug\App.g.cs
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddOrder\obj\Debug\dialAddOrder_MarkupCompile.cache
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddOrder\obj\Debug\dialAddOrder_MarkupCompile.lref
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddOrder\obj\Debug\DialAddOrder.baml
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddOrder\obj\Debug\dialAddOrder.g.resources
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddOrder\obj\Debug\dialAddOrder.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddOrder\obj\Debug\dialAddOrder.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddOrder\obj\Debug\dialAddOrder.exe
+C:\Users\User\documents\visual studio 2017\Projects\kurs\dialAddOrder\obj\Debug\dialAddOrder.pdb
+D:\Программирование\vs2017projects\Projects\kurs\dialAddOrder\bin\Debug\dialAddOrder.exe.config
+D:\Программирование\vs2017projects\Projects\kurs\dialAddOrder\bin\Debug\dialAddOrder.exe
+D:\Программирование\vs2017projects\Projects\kurs\dialAddOrder\bin\Debug\dialAddOrder.pdb
+D:\Программирование\vs2017projects\Projects\kurs\dialAddOrder\obj\Debug\DialAddOrder.g.cs
+D:\Программирование\vs2017projects\Projects\kurs\dialAddOrder\obj\Debug\App.g.cs
+D:\Программирование\vs2017projects\Projects\kurs\dialAddOrder\obj\Debug\dialAddOrder_MarkupCompile.cache
+D:\Программирование\vs2017projects\Projects\kurs\dialAddOrder\obj\Debug\dialAddOrder_MarkupCompile.lref
+D:\Программирование\vs2017projects\Projects\kurs\dialAddOrder\obj\Debug\DialAddOrder.baml
+D:\Программирование\vs2017projects\Projects\kurs\dialAddOrder\obj\Debug\dialAddOrder.g.resources
+D:\Программирование\vs2017projects\Projects\kurs\dialAddOrder\obj\Debug\dialAddOrder.Properties.Resources.resources
+D:\Программирование\vs2017projects\Projects\kurs\dialAddOrder\obj\Debug\dialAddOrder.csproj.GenerateResource.cache
+D:\Программирование\vs2017projects\Projects\kurs\dialAddOrder\obj\Debug\dialAddOrder.csproj.CoreCompileInputs.cache
+D:\Программирование\vs2017projects\Projects\kurs\dialAddOrder\obj\Debug\dialAddOrder.exe
+D:\Программирование\vs2017projects\Projects\kurs\dialAddOrder\obj\Debug\dialAddOrder.pdb
