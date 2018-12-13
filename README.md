@@ -1,5 +1,5 @@
 # CargoTransportation
-This is desktop application for accaunting cargo delivery
+This is desktop application for accounting cargo delivery
 
 
 ---
